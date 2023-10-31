@@ -1,0 +1,93 @@
+/************************************ FONTS ************************************/
+@font-face {
+    font-family: titulo;
+    src: url(../font/engebrechtre\ rg.otf);
+}
+
+@font-face {
+    font-family: texto;
+    src: url(../font/TechnaSans-Regular.otf);
+}
+/*******************************************************************************/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 1.2em;
+    font-family: texto;
+}
+
+header {
+    background-color: rgba(0,0,0,0.85);
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    overflow: hidden;
+}
+
+nav ul li {
+    font-family: titulo;
+    float: left; 
+}
+
+a {
+    text-decoration: none;
+    display: block;
+    float: left;
+    padding: 20px 30px;
+    color: white;
+}
+
+a:hover {
+    background-color: #888888;
+    color: black;
+}
+
+a.active {
+    background-color: #e7e7e7;
+    color: #5d5d5d;
+}
+
+/************************************ HERO SECTION ************************************/
+#hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/hero.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 130vh;
+    position: relative;
+}
+
+#hero-content {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #f6f6f6;
+}
+
+#hero-content h1 {
+    font-family: titulo;
+    font-size: 5em;
+}
+
+#hero-content blockquote {
+    font-size: 1.5em;
+}
+/**************************************************************************************/
+
+.wrapper {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
