@@ -109,11 +109,11 @@ a.active {
     }
 
     #hero-content blockquote {
-        font-size: 0.75em;
+        font-size: 0.5em;
     }
 
     a {
-        padding: 10px;
+        padding: 5px;
     }
 
 }
