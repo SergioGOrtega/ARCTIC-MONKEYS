@@ -91,3 +91,11 @@ a.active {
     margin: auto;
     overflow: hidden;
 }
+
+@media only screen and (width<700px) {
+
+    a {
+        padding: 10px 10px;
+    }
+
+}
