@@ -109,8 +109,12 @@ a.active {
         font-size: 3.5em;
     }
 
+    #hero-content blockquote {
+        font-size: 0.75em;
+    }
+
     a {
-        padding: 25px;
+        padding: 10px;
     }
 
 }
