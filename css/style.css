@@ -37,7 +37,7 @@ header {
 }
 
 nav ul {
-    padding: 0;
+    padding-left: 25px;
     margin: 0;
     list-style: none;
     overflow: hidden;
@@ -45,7 +45,7 @@ nav ul {
 
 nav ul li {
     font-family: titulo;
-    float: left; 
+    float: left;
 }
 
 a {
@@ -94,14 +94,14 @@ a.active {
 }
 /**************************************************************************************/
 
-.wrapper {
+#wrapper {
     width: 80%;
     margin: auto;
     overflow: hidden;
 }
 
 /************************************ RESPONSIVIDAD ************************************/
-@media only screen and (width<1080px) {
+@media only screen and (width<700px) {
 
 
     #hero-content h1 {
@@ -113,7 +113,12 @@ a.active {
     }
 
     a {
-        padding: 5px;
+        padding: 10px;
+    }
+
+    nav ul {
+        display: flex;
+        justify-content: center;
     }
 
 }
