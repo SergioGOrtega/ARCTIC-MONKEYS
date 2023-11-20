@@ -16,6 +16,15 @@
     font-family: texto;
     src: url(../font/TechnaSans-Regular.otf);
 }
+
+@keyframes aHover {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
 /*******************************************************************************/
 
 * {
@@ -60,11 +69,17 @@ a {
 a:hover {
     background-color: #888888;
     color: black;
+    animation-name: aHover;
+    animation-duration: 0.25s;
 }
 
 .active {
     background-color: #e7e7e7;
     color: #5d5d5d;
+}
+
+.active:hover {
+    animation: none; 
 }
 
 /************************************ HERO SECTION ************************************/
@@ -74,6 +89,7 @@ a:hover {
     background-position: center;
     height: 110vh;
     position: relative;
+    box-shadow: 5px 5px 50px #e7e7e7;
 }
 
 #hero-content {
@@ -95,11 +111,12 @@ a:hover {
 }
 /**************************************************************************************/
 
-/* #wrapper {
+#wrapper {
     width: 80%;
     margin: auto;
     overflow: hidden;
-} */
+    padding: 20px;
+}
 
 /************************************ RESPONSIVIDAD ************************************/
 @media only screen and (width<700px) {
@@ -111,6 +128,10 @@ a:hover {
 
     #hero-content blockquote {
         font-size: 0.8em;
+    }
+
+    #wrapper {
+        width: 100%;
     }
 
     a {
