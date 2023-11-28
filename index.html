@@ -6,28 +6,44 @@
     <title>Arctic Monkeys - Tribute</title>
     <link rel="stylesheet" href="./css/style.css">
     <link rel="shortcut icon" href="./img/mirrorball.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="./js/script.js"></script>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a class="active" href="#">Inicio</a></li>
-                <li><a href="#">Música</a></li>
-                <li><a href="#">Discografía</a></li>
-                <li><a href="#">Contacto</a></li>
-            </ul>
-        </nav>
-    </header>
+
+    <nav>
+        <div class="topnav" id="myTopnav">
+                <a class="active" href="#">Inicio</a>
+                <a href="#">Música</a>
+                <a href="#">Discografía</a>
+                <a href="#">Contacto</a>
+                <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                    <i class="fa fa-bars"></i>
+                </a>
+        </div>
+    </nav>
+
     <section id="hero-image">
+
         <div id="hero-content">
             <h1>ARCTIC MONKEYS</h1>
             <blockquote>- "I bet you look good on the Dancefloor"</blockquote>
         </div>
+        
     </section>
-    <div id="wrapper">
-        <section>Aquí va la sección de música</section>
-        <section>Aquí va la sección de Discografía</section>
-        <footer>Aqui va la sección de Contacto</footer>
-    </div>
+
+    <section id="intro">
+        
+        <div class="grid-2">
+            <div class="col-2"></div>
+            <div class="col-2"></div>
+        </div>
+
+    </section>
+
+    <section>Aquí va la sección de música</section>
+    <section>Aquí va la sección de Discografía</section>
+
+    <footer>Aqui va la sección de Contacto</footer>
 </body>
 </html>
