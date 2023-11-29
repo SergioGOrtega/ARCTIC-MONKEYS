@@ -106,6 +106,7 @@ nav {
     height: 95vh;
     position: relative;
     box-shadow: 5px 5px 50px black;
+    z-index: 0;
 }
 
 #hero-content {
@@ -130,6 +131,12 @@ nav {
 
 #container-1 {
     background-color: #454545;
+}
+
+#wrapper h1 {
+    position: relative;
+    text-align: center;
+    top: -60px;
 }
 
 #discografia {
@@ -167,6 +174,10 @@ nav {
 
     #hero-content blockquote {
         font-size: 0.8em;
+    }
+
+    #container-1 h1 {
+        top: -20px;
     }
 
     #discografia {
