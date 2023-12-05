@@ -249,7 +249,7 @@ nav {
     text-shadow: none;
 }
 
-/************************************ BANDA (GRID-2) ************************************/
+/************************************ MIEMBROS (GRID-2) ************************************/
 
 #miembros-sec {
     background-color: #888888;
@@ -259,10 +259,10 @@ nav {
 .grid-2 {
     display: grid;
     grid-template-columns: 45% 50%;
-    grid-gap: 45px;
 }
 
-.col-2 {
+.col-2 .text-container {
+    margin-left: 50px;
 }
 
 .miembros-img {
@@ -292,8 +292,11 @@ nav {
     }
 
     hr {
-        margin: 20px 0 75px;
-        visibility: hidden;
+        margin: 75px 0 75px;
+    }
+
+    hr::after {
+        padding: 0.4rem;
     }
 
     #hero-content h1 {
@@ -344,8 +347,8 @@ nav {
         grid-template-columns: 100%;
     }
 
-    .col-2 {
-        margin-bottom: 0;
+    .col-2 .text-container {
+        margin-left: 0;
     }
 
     body {
