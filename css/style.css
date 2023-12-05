@@ -58,7 +58,7 @@ hr::after {
     padding: 5px 10px;
     font-weight: bold;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: all 0.4s ease;
     position: relative;
     display: inline-block;
     outline: none;
@@ -82,7 +82,7 @@ hr::after {
     content: "";
     position: absolute;
     z-index: -1;
-    transition: all 0.3s ease;
+    transition: all 0.4s ease;
     left: 0;
     top: 0;
     width: 0;
