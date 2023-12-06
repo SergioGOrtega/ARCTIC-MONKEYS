@@ -293,7 +293,7 @@ nav {
     background-color: #393939;
 }
 
-.footer .grupo-1 {
+.footer .grid-3 {
     width: 100%;
     max-width: 1200px;
     margin: auto;
@@ -303,42 +303,42 @@ nav {
     padding: 45px 0;
 }
 
-.footer .grupo-1 .box figure {
+.footer .grid-3 .col-3 figure {
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.footer .grupo-1 .box img {
+.footer .grid-3 .col-3 img {
     width: 250px;
 }
 
-.footer .grupo-1 .box h2 {
+.footer .grid-3 .col-3 h2 {
     color: white;
     margin-bottom: 25px;
     font-size: 1.5em;
 }
 
-.footer .grupo-1 .box a {
+.footer .grid-3 .col-3 a {
     text-decoration: none;
     color: white;
 }
 
-.footer .grupo-1 .box a p {
+.footer .grid-3 .col-3 a p {
     opacity: 0.5;
     margin-bottom: 15px;
     border: hidden;
     transition: 0.4s ease;
 }
 
-.footer .grupo-1 .box a p:hover {
+.footer .grid-3 .col-3 a p:hover {
     opacity: 1;
     border-left: 1px solid white;
     padding-left: 10px;
 }
 
-.footer .grupo-1 .box .redes-sociales i {
+.footer .grid-3 .col-3 .redes-sociales i {
     display: inline-block;
     text-decoration: none;
     width: 45px;
@@ -352,7 +352,7 @@ nav {
     opacity: 0.5;
 }
 
-.footer .grupo-1 .box .redes-sociales i:hover {
+.footer .grid-3 .col-3 .redes-sociales i:hover {
     opacity: 1;
 }
 
@@ -436,7 +436,7 @@ nav {
         font-size: 1.5em;
     }
 
-    .footer .grupo-1 {
+    .footer .grid-3 {
         width: 75%;
         grid-template-columns: auto;
         grid-gap: 30px;
