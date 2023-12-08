@@ -233,16 +233,16 @@ nav {
 
 .grid-3 {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: repeat(3, 1fr);
     grid-gap: 25px;
 }
 
-.col-3 iframe {
+#musica-sec .grid-3 .col-3 iframe {
     width: 100%;
     height: 315px;
 }
 
-.col-3 h3 {
+#musica-sec .grid-3 .col-3 h3 {
     text-align: center;
     position: relative;
     top: -30px;
@@ -284,6 +284,53 @@ nav {
 .text-container {
     border-left: 2.5px solid black;
     padding-left: 35px;
+}
+
+/********************************* MERCHANDISING (GRID-3) ********************************/
+
+#merchandising-sec {
+    background-color: #6d6d6d;
+    padding: 10%;
+}
+
+.card {
+    padding: 4%;
+    margin-bottom: 25%;
+    background-color: white;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card {
+    padding-bottom: 16px;
+}
+
+.card a h3 {
+    background-color: transparent;
+    position: relative;
+    top: 85px;
+    text-align: center;
+}
+
+#merchandising-sec .grid-3 .col-3 h4 {
+    position: relative;
+    top: -60px;
+    text-align: center;
+}
+
+.card a {
+    text-decoration: none;
+    color: black;
+}
+
+.card a:hover img {
+    opacity: 0.65;
+}
+
+.card a:hover h3 {
+    text-decoration: underline;
 }
 
 /************************************ FOOTER (GRID-3) ************************************/
@@ -365,10 +412,15 @@ nav {
 
 /************************************ RESPONSIVIDAD ************************************/
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 800px) { /* MÓVIL */
 
     .wrapper {
         width: 100%;
+    }
+
+    .top-h1 {
+        top: -20px;
+        font-size: 1.5em;
     }
 
     hr {
@@ -386,10 +438,6 @@ nav {
 
     #hero-content blockquote {
         font-size: 0.8em;
-    }
-
-    .top-h1 {
-        top: -20px;
     }
 
     #discografia {
@@ -412,28 +460,32 @@ nav {
         filter: contrast(120%); 
     }
 
-    .topnav {
-        margin-left: 0;
-    }
-
-    .grid-3 {
-        grid-template-columns: 100%;
-    }
-
     .col-3 h3 {
         top: -20px;
     }
 
     .grid-2 {
-        grid-template-columns: 100%;
+        grid-template-columns: auto;
     }
 
     .col-2 .text-container {
         margin-left: 0;
     }
 
-    body {
-        font-size: 1.5em;
+    #musica-sec .grid-3 {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    #merchandising-sec .grid-3 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    #merchandising-sec .grid-3 .col-3 .card a h3 {
+        font-size: 0.44em;
+    }
+
+    #merchandising-sec .grid-3 .col-3 .card a h3 {
+        top: 45px;
     }
 
     .footer .grid-3 {
@@ -445,7 +497,11 @@ nav {
 
 }
 
-@media only screen and (min-width: 801px)  and (max-width: 1439px) {
+@media only screen and (min-width: 801px)  and (max-width: 1439px) { /* TABLETS Y PORTATILES (PEQUEÑOS) */
+
+    #musica-sec .grid-3 {
+        grid-template-columns: auto;
+    }
 
     .footer .grid-3 {
         width: 75%;
@@ -454,17 +510,29 @@ nav {
         padding: 35px 0;
     }
 
+    #merchandising-sec .grid-3 .col-3 .card a h3 {
+        font-size: 0.65em;
+    }
+
+    #merchandising-sec .grid-3 .col-3 .card a h3 {
+        top: 65px;
+    }
+
 }
 
-@media screen and (width < 785px) {
+@media screen and (width < 915px) {
     .topnav a:not(:first-child) {display: none;}
     .topnav a.icon {
         float: right;
         display: block;
     }
+
+    .topnav {
+        margin-left: 0;
+    }
 }
   
-@media screen and (width < 785px) {
+@media screen and (width < 915px) {
     .topnav.responsive {position: relative;}
     .topnav.responsive a.icon {
         position: absolute;
@@ -475,5 +543,9 @@ nav {
         float: none;
         display: block;
         text-align: left;
+    }
+
+    .topnav {
+        margin-left: 0;
     }
 }
