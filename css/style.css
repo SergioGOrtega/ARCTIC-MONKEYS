@@ -102,17 +102,6 @@ hr::after {
     src: url(../font/TechnaSans-Regular.otf);
 }
 
-/************************************ ANIMATIONS ************************************/
-
-@keyframes aHover {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
-}
-
 /*************************************** NAV BAR ************************************/
 
 nav {
@@ -137,23 +126,18 @@ nav {
     text-align: center;
     padding: 20px 30px;
     text-decoration: none;
+    transition: 0.25s;
     font-size: 1em !important;
 }
   
 .topnav a:hover {
     background-color: #888888;
     color: black;
-    animation: aHover;
-    animation-duration: 0.25s;
 }
 
 .topnav .active {
     background-color: #e7e7e7;
     color: #5d5d5d;
-}
-
-.topnav .active:hover {
-    animation: none; 
 }
 
 .topnav .icon {
@@ -548,4 +532,5 @@ nav {
     .topnav {
         margin-left: 0;
     }
+
 }
