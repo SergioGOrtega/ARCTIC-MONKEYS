@@ -65,25 +65,25 @@
 <h3>Imágenes</h3>
 <img src="./img/hero.jpg">
 <p>Imágen de la Hero Section.</p>
-<img src="./img/am_album.jpg">
-<img src="./img/fwn_album.jpeg">
-<img src="./img/the_car_album.jpg">
-<img src="./img/humbug_album.jpeg">
-<img src="./img/suckit_and_see_album.jpg">
-<img src="./img/whatever_album.jpg">
-<img src="./img/casino_album.jpeg">
+<img src="./img/am_album.jpg" width="50%">
+<img src="./img/fwn_album.jpeg" width="50%">
+<img src="./img/the_car_album.jpg" width="50%">
+<img src="./img/humbug_album.jpeg" width="50%">
+<img src="./img/suckit_and_see_album.jpg" width="50%">
+<img src="./img/whatever_album.jpg" width="50%">
+<img src="./img/casino_album.jpeg" width="50%">
 <p>Estas son las imágenes de los albums de Arctic Monkeys que he utilizado en la galería de imágenes.</p>
-<img src="./img/Alex_Turner.jpg">
-<img src="./img/Jamie_Cook.jpg">
-<img src="./img/Nick_O_Malley.jpg">
-<img src="./img/Matt_Helders.jpg">
+<img src="./img/Alex_Turner.jpg" width="50%">
+<img src="./img/Jamie_Cook.jpg" width="50%">
+<img src="./img/Nick_O_Malley.jpg" width="50%">
+<img src="./img/Matt_Helders.jpg" width="50%">
 <p>Imágenes de los respectivos miembros de la banda.</p>
-<img src="./img/Photo_Tee.png">
-<img src="./img/Tour_Black_Hooded_Top.png">
-<img src="./img/Band_Photo.png">
-<img src="./img/The_Car_LP.png">
-<img src="./img/The_Car_CD.png">
-<img src="./img/The_Car_CASSETTE.png">
+<img src="./img/Photo_Tee.png" width="50%">
+<img src="./img/Tour_Black_Hooded_Top.png" width="50%">
+<img src="./img/Band_Photo.png" width="50%">
+<img src="./img/The_Car_LP.png" width="50%">
+<img src="./img/The_Car_CD.png" width="50%">
+<img src="./img/The_Car_CASSETTE.png" width="50%">
 <p>Imágenes utilizadas en la sección de Merchandising.</p>
-<img src="./img/Arctic_Monkeys_Logo.png">
+<img src="./img/Arctic_Monkeys_Logo.png" width="50%">
 <p>Imagen de uno de los logos de Arctic Monkeys utilizada en el footer.</p>
