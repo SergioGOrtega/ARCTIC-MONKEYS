@@ -87,3 +87,5 @@
 <p>Imágenes utilizadas en la sección de Merchandising.</p>
 <img src="./img/Arctic_Monkeys_Logo.png" width="25%">
 <p>Imagen de uno de los logos de Arctic Monkeys utilizada en el footer.</p>
+<img src="./img/mirrorball.png">
+<p>Imagen utilizada como favicon de la página. El motivo de usar una bola de disco es porque es algo bastante icónico de Arctic Monkeys ya que la usan muchas veces en sus conciertos.</p>
