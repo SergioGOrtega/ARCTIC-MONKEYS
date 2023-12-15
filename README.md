@@ -59,6 +59,31 @@
 <h3>Tipografías</h3>
 <p>He utilizado 2 fuentes de tipografía, una para los títulos y otra para el texto.</p>
 <ul>
-  <li><a href="https://www.1001fonts.com/search.html?search=Engebrechtre+Regular">Engebrechtre Regular</a>(Títulos)</li>
-  <li><a href="https://www.1001fonts.com/search.html?search=Techna+Sans+Regular">Techna Sans Regular</a>(Texto)</li>
+  <li><a href="https://www.1001fonts.com/search.html?search=Engebrechtre+Regular">Engebrechtre Regular</a> (Títulos)</li>
+  <li><a href="https://www.1001fonts.com/search.html?search=Techna+Sans+Regular">Techna Sans Regular</a> (Texto)</li>
 </ul>
+<h3>Imágenes</h3>
+<img src="./img/hero.jpg">
+<p>Imágen de la Hero Section.</p>
+<img src="./img/am_album.jpg">
+<img src="./img/fwn_album.jpeg">
+<img src="./img/the_car_album.jpg">
+<img src="./img/humbug_album.jpeg">
+<img src="./img/suckit_and_see_album.jpg">
+<img src="./img/whatever_album.jpg">
+<img src="./img/casino_album.jpeg">
+<p>Estas son las imágenes de los albums de Arctic Monkeys que he utilizado en la galería de imágenes.</p>
+<img src="./img/Alex_Turner.jpg">
+<img src="./img/Jamie_Cook.jpg">
+<img src="./img/Nick_O_Malley.jpg">
+<img src="./img/Matt_Helders.jpg">
+<p>Imágenes de los respectivos miembros de la banda.</p>
+<img src="./img/Photo_Tee.png">
+<img src="./img/Tour_Black_Hooded_Top.png">
+<img src="./img/Band_Photo.png">
+<img src="./img/The_Car_LP.png">
+<img src="./img/The_Car_CD.png">
+<img src="./img/The_Car_CASSETTE.png">
+<p>Imágenes utilizadas en la sección de Merchandising.</p>
+<img src="./img/Arctic_Monkeys_Logo.png">
+<p>Imagen de uno de los logos de Arctic Monkeys utilizada en el footer.</p>
