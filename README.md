@@ -45,7 +45,7 @@
 <p>He colocado de manera independiente a cada miembro de Arctic Monkeys separados utilizando un grid de 2 columnas separando su respectiva imagen con su texto.</p>
 
 <h3>Merchadising</h3>
-<img src="./readme-bm/merchadising.PNG" width="50%">
+<img src="./readme-bm/merchandising.PNG" width="50%">
 <p>En esta sección he colocado una serie de productos de compra oficiales de Arctic Monkeys colocados utilizando un grid de 3 columnas.</p>
 
 <h3>Footer</h3>
