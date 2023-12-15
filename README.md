@@ -57,5 +57,8 @@
 <img src="./readme-bm/paleta_de_colores.PNG">
 <p>He utilizado esta paleta de colores intercalando entre colores claros, medio claros y mas oscuros.</p>
 <h3>Tipografías</h3>
-<p>He utilizado estas 2 fuentes de tipografía, una para los títulos y otra para el texto.</p>
-<a href="https://www.1001fonts.com/search.html?search=Engebrechtre+Regular" target="_blank">Engebrechtre Regular</a>
+<p>He utilizado 2 fuentes de tipografía, una para los títulos y otra para el texto.</p>
+<ul>
+  <li><a href="https://www.1001fonts.com/search.html?search=Engebrechtre+Regular">Engebrechtre Regular</a><p>(Títulos)</p></li>
+  <li><a href="https://www.1001fonts.com/search.html?search=Techna+Sans+Regular">Techna Sans Regular</a><p>(Texto)</p></li>
+</ul>
