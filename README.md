@@ -59,6 +59,6 @@
 <h3>Tipografías</h3>
 <p>He utilizado 2 fuentes de tipografía, una para los títulos y otra para el texto.</p>
 <ul>
-  <li><a href="https://www.1001fonts.com/search.html?search=Engebrechtre+Regular">Engebrechtre Regular</a><p>(Títulos)</p></li>
-  <li><a href="https://www.1001fonts.com/search.html?search=Techna+Sans+Regular">Techna Sans Regular</a><p>(Texto)</p></li>
+  <li><a href="https://www.1001fonts.com/search.html?search=Engebrechtre+Regular">Engebrechtre Regular</a>(Títulos)</li>
+  <li><a href="https://www.1001fonts.com/search.html?search=Techna+Sans+Regular">Techna Sans Regular</a>(Texto)</li>
 </ul>
