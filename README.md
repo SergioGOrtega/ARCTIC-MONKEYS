@@ -78,12 +78,12 @@
 <img src="./img/Nick_O_Malley.jpg" width="50%">
 <img src="./img/Matt_Helders.jpg" width="50%">
 <p>Imágenes de los respectivos miembros de la banda.</p>
-<img src="./img/Photo_Tee.png" width="75%">
-<img src="./img/Tour_Black_Hooded_Top.png" width="75%">
-<img src="./img/Band_Photo.png" width="75%">
-<img src="./img/The_Car_LP.png" width="75%">
-<img src="./img/The_Car_CD.png" width="75%">
-<img src="./img/The_Car_CASSETTE.png" width="75%">
+<img src="./img/Photo_Tee.png" width="25%">
+<img src="./img/Tour_Black_Hooded_Top.png" width="25%">
+<img src="./img/Band_Photo.png" width="25%">
+<img src="./img/The_Car_LP.png" width="25%">
+<img src="./img/The_Car_CD.png" width="25%">
+<img src="./img/The_Car_CASSETTE.png" width="25%">
 <p>Imágenes utilizadas en la sección de Merchandising.</p>
-<img src="./img/Arctic_Monkeys_Logo.png" width="75%">
+<img src="./img/Arctic_Monkeys_Logo.png" width="25%">
 <p>Imagen de uno de los logos de Arctic Monkeys utilizada en el footer.</p>
