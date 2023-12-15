@@ -65,13 +65,13 @@
 <h3>Imágenes</h3>
 <img src="./img/hero.jpg" width="50%">
 <p>Imágen de la Hero Section.</p>
-<img src="./img/am_album.jpg" width="50%">
-<img src="./img/fwn_album.jpeg" width="50%">
-<img src="./img/the_car_album.jpg" width="50%">
-<img src="./img/humbug_album.jpeg" width="50%">
-<img src="./img/suckit_and_see_album.jpg" width="50%">
-<img src="./img/whatever_album.jpg" width="50%">
-<img src="./img/casino_album.jpeg" width="50%">
+<img src="./img/am_album.jpg" width="25%">
+<img src="./img/fwn_album.jpeg" width="25%">
+<img src="./img/the_car_album.jpg" width="25%">
+<img src="./img/humbug_album.jpeg" width="25%">
+<img src="./img/suckit_and_see_album.jpg" width="25%">
+<img src="./img/whatever_album.jpg" width="25%">
+<img src="./img/casino_album.jpeg" width="25%">
 <p>Estas son las imágenes de los albums de Arctic Monkeys que he utilizado en la galería de imágenes.</p>
 <img src="./img/Alex_Turner.jpg" width="50%">
 <img src="./img/Jamie_Cook.jpg" width="50%">
