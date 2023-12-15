@@ -89,3 +89,10 @@
 <p>Imagen de uno de los logos de Arctic Monkeys utilizada en el footer.</p>
 <img src="./img/mirrorball.png">
 <p>Imagen utilizada como favicon de la página. El motivo de usar una bola de disco es porque es algo bastante icónico de Arctic Monkeys ya que la usan muchas veces en sus conciertos.</p>
+<h3>Videos</h3>
+<p>He utilizado 3 videos sacados de YouTube de 3 canciones en vivo de los Arctic Monkeys (cada video pertenece a su respectivos canales/autores).</p>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=1tWFk8ojF4M">Do I Wanna Know?<a/></li>
+  <li><a href="https://www.youtube.com/watch?v=IjfotqT2c0o">Fluorescent Adolescent<a/></li>
+  <li><a href="https://www.youtube.com/watch?v=Azc4tG1lnoQ">Body Paint<a/></li>
+</ul>
