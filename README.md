@@ -7,6 +7,7 @@
     <li><a href="#motivacion">Motivación</a></li>
     <li><a href="#estructura">Estructura</a></li>
     <li><a href="#estilo">Estilo</a></li>
+    <li><a href="#code-snippets">Code Snippets</a></li>
   </ul>
       
 <h2 id="introduccion">Introducción</h2>
@@ -97,4 +98,13 @@
   <li><a href="https://www.youtube.com/watch?v=IjfotqT2c0o">Fluorescent Adolescent</a></li>
   <li><a href="https://www.youtube.com/watch?v=Azc4tG1lnoQ">Body Paint</a></li>
 </ul>
-<p><b>ADVERTENCIA: </b>Cada video pertenece a su respectivos canales/autores</p>
+<p><b>ADVERTENCIA: </b>Cada video pertenece a su respectivos canales/autores.</p>
+
+<h2 id="code-snippets">Code Snippets</h2>
+<p>He utilizado los siguientes:</p>
+<ul>
+  <li>Barra de navegación: tomada de W3Schools <a href="https://www.w3schools.com/css/css_navbar.asp">"How to"</a></li>
+  <li>Galeria de imágenes estilo acordeón.</li>
+  <li>Cards.</li>
+  <li>Efectos de imagen/card.</li>
+</ul>
