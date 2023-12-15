@@ -31,3 +31,23 @@
 <h3>Hero Section</h3>
 <img src="./readme-bm/hero.PNG" width="50%">
 <p>He tomado una imagen de fondo donde se ve al cantante principal de Arctic Monkeys en primer plano pudiendose ver perfectamente incluso para dispositivos móviles. Sobre ella he puesto en grande como título "ARCTIC MONKEYS" y un blockquote del título de una de sus canciones "I Bet You Look Good on the Dancefloor"</p>
+
+<h3>Discografía</h3>
+<img src="./readme-bm/gallery.PNG" width="50%">
+<p>He tomado una imagen de cada uno de los discos/albums de Arctic Monkeys y he creado una galería de fotos con un estilo acordeón</p>
+
+<h3>Música</h3>
+<img src="./readme-bm/musica.PNG" width="50%">
+<p>He colocado 3 vídeos de YouTube utilizando un grid de 3 columnas.</p>
+
+<h3>Miembros</h3>
+<img src="./readme-bm/miembros.PNG" width="50%">
+<p>He colocado de manera independiente a cada miembro de Arctic Monkeys separados utilizando un grid de 2 columnas separando su respectiva imagen con su texto.</p>
+
+<h3>Merchadising</h3>
+<img src="./readme-bm/merchandising.PNG" width="50%">
+<p>En esta sección he colocado una serie de productos de compra oficiales de Arctic Monkeys colocados utilizando un grid de 3 columnas.</p>
+
+<h3>Footer</h3>
+<img src="./readme-bm/footer.PNG" width="50%">
+<p>En el footer de la página he utilizado otro grid de 3 columnas colocando en una imágen del logo de Arctic Monkeys, una repetición de la barra de navegación junto a otro enlace a la página oficial de Arctic Monkeys y sus redes sociales. Abajo de este he puesto el proposito con el que se ha creado la página y de quienes son las imagenes, música y merchandising utilizados.</p>
