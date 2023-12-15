@@ -63,7 +63,7 @@
   <li><a href="https://www.1001fonts.com/search.html?search=Techna+Sans+Regular">Techna Sans Regular</a> (Texto)</li>
 </ul>
 <h3>Imágenes</h3>
-<img src="./img/hero.jpg">
+<img src="./img/hero.jpg" width="50%">
 <p>Imágen de la Hero Section.</p>
 <img src="./img/am_album.jpg" width="50%">
 <img src="./img/fwn_album.jpeg" width="50%">
