@@ -103,6 +103,7 @@
 <h2 id="code-snippets">Code Snippets</h2>
 <p>He utilizado los siguientes:</p>
 <ul>
+
   <li>Barra de navegación: tomada de W3Schools <a href="https://www.w3schools.com/css/css_navbar.asp">"How to"</a></li>
   <li>Galeria de imágenes estilo acordeón.</li>
   <li>Cards.</li>
