@@ -1,6 +1,6 @@
 /*****************************************************************************/
 /*                     Hoja de estilo de index.html                          */
-/*                     Autor: Sergio Gamez Ortega                            */
+/*                     Autor: Sergio Gámez Ortega                            */
 /*                     Version: 1.0                                          */
 /*                     Fecha: Octubre de 2023                                */
 /*                     Comentario: Proyecto de Lenguaje de Marcas            */
@@ -208,13 +208,6 @@ nav {
     padding: 10%;
 }
 
-.top-h1 {
-    text-align: center;
-    position: relative;
-    top: -60px;
-    text-shadow: 5px 5px 50px black;
-}
-
 .grid-3 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -400,11 +393,6 @@ nav {
 
     .wrapper {
         width: 100%;
-    }
-
-    .top-h1 {
-        top: -20px;
-        font-size: 1.5em;
     }
 
     hr {

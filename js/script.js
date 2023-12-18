@@ -1,6 +1,6 @@
 /*****************************************************************************/
 /*                     JavaScript de index.html                              */
-/*                     Autor: Sergio Gamez Ortega                            */
+/*                     Autor: Sergio Gámez Ortega                            */
 /*                     Version: 1.0                                          */
 /*                     Fecha: Octubre de 2023                                */
 /*                     Comentario: Proyecto de Lenguaje de Marcas            */
